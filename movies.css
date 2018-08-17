@@ -1,0 +1,122 @@
+html,body{
+                   margin:0;
+                   padding:0;
+                   }
+
+
+.container{
+                   max-width:960px;
+                   margin:0 auto;
+                   padding: 0 10px;
+                   }
+                   
+ /*header section*/
+                .heading{
+                               background-color:#532b82;
+                                width:100%;
+                                }
+ .nav{
+          margin:0;
+          padding:20px 0;
+         }     
+
+.nav a{
+           display:inline;
+           color:#f5f1f9;
+           font-weight:600;
+           font-family:'Raleway',sans-serif,Tahoma;
+           font-size:13px;
+           margin-right:35px;
+           text-transform:capitalize;
+           text-design:none;
+           }  
+
+.jumbotron{
+                     height:600px;
+                     background:url(movie7.jpg)no-repeat center center;
+                     background-size:cover;
+                     height:1500px;
+                     }
+
+.main{
+           position:relative;
+           top:180px;
+           text-align:center;
+           }
+
+.main h1{
+                 margin-top:0;
+                 color:#f5f1f9;
+                 font-size:60px;
+                 margin-bottom:80px;
+                 }
+ 
+.primary-btn{
+                       text-decoration:none;
+                       color:#e83434;
+                       font-family:'Raleway',sans-serif;
+                       font-weight:600;
+                       font-size:18px;
+                       background-color:#61e8dc;
+                       padding:16px 40px;
+                       letter-spacing:1.3px
+                       }
+
+.supporting{
+                      width:100%;
+                      background-color:violet
+                     }
+
+.supporting .container{
+                                          display:flex;
+                                          padding:80px;
+                                           }
+
+.supporting .col{
+                            text-align:center;
+                            width:33%;
+                            }
+                 
+
+
+.supporting a{
+                         font-wight:bold;
+                         color:white;
+                         background-color:purple;
+                         padding:16px 29px;
+                        height:300px;
+                       width:300px;
+                       }
+   
+
+.supporting a:hover{
+                               color:cyan;
+                               background:beige;
+                               } 
+             
+.col p{
+          color:purple;
+          }
+
+.col h3{
+           color:green;
+          }
+ 
+.col h2{
+           color:mistyrose;
+          }
+
+
+.copy{
+          padding:1px; 
+           background-color:red;
+           color:white;
+          }
+
+.supporting p{
+                         margin-bottom:20px  
+                         }
+
+.image{
+              background-color:pink;
+             }
